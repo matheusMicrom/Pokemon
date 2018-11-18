@@ -1,0 +1,22 @@
+﻿2;Kkkk;..\..\..\imagens\pokemons\2.jpg;Kkkkk;2;110;2;14
+3;Eeee;..\..\..\imagens\pokemons\3.jpg;Kkk;1;89;4;10
+4;Jjmjj;..\..\..\imagens\pokemons\4.jpg;Jjmjj;1,5;140;2;15
+6;Aaa;..\..\..\imagens\pokemons\6.jpg;Aaa;0,03;0,04;1;1
+7;Clyssia;..\..\..\imagens\pokemons\7.jpg;Clyssia;0,09;0,09;4;2
+8;Hzzzxcz;..\..\..\imagens\pokemons\8.jpg;....;0,02;0,03;3;2
+10;Www;..\..\..\imagens\pokemons\10.jpg;Www;444;111;3;222
+11;111gg;..\..\..\imagens\pokemons\11.jpg;Math;0,03;0,43;1;1
+12;Jhjjj;..\..\..\imagens\pokemons\12.jpg;Kiki;0,03;0,05;3;2
+14;Ggg;..\..\..\imagens\pokemons\14.jpg;Ggg;0,03;0,03;2;1
+15;Llll;..\..\..\imagens\pokemons\15.jpg;Mmmm;0,05;0,39;1;1
+16;Ff;..\..\..\imagens\pokemons\16.jpg;Qqrtgf;1,15;2,35;3;2
+17;O;..\..\..\imagens\pokemons\17.jpg;O;0,01;0,01;4;2
+18;Kk;..\..\..\imagens\pokemons\18.jpg;Kkk;0,03;0,05;2;1
+19;O;..\..\..\imagens\pokemons\19.jpg;Y;0,02;0,01;3;2
+20;Www;..\..\..\imagens\pokemons\20.jpg;Aaa;0,02;0,02;1;1
+21;Jh;..\..\..\imagens\pokemons\21.jpg;Ffff;0,01;0,01;3;2
+22;Zzz;..\..\..\imagens\pokemons\22.jpg;Xx;0,03;0,11;2;1
+23;Uyyy;..\..\..\imagens\pokemons\23.jpg;Ghh;0,02;0,05;1;1
+25;   uuuuu;..\..\..\imagens\pokemons\25.jpg;Dsfsdf;0,02;0,02;4;2
+26;Pikachu;..\..\..\imagens\pokemons\26.jpg;Raichu;0,4;6;1;2
+27;Raichu;..\..\..\imagens\pokemons\27.jpg;Raichu;0,8;30;2;5

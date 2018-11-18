@@ -1,0 +1,81 @@
+C:\Users\2018102130\Desktop\Pokemon\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\2018102130\Desktop\Pokemon\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\2018102130\Desktop\Pokemon\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\2018102130\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.Form1.resources
+C:\Users\2018102130\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.FormPokemons.resources
+C:\Users\2018102130\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.FormPokemonsCadastro.resources
+C:\Users\2018102130\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.FormTreinadores.resources
+C:\Users\2018102130\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+C:\Users\2018102130\Desktop\Pokemon\Pokemon\obj\Debug\TrabPokemon.csproj.GenerateResource.Cache
+C:\Users\2018102130\Desktop\Pokemon\Pokemon\obj\Debug\TrabPokemon.csproj.CoreCompileInputs.cache
+C:\Users\2018102130\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\2018102130\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.pdb
+C:\Users\Pichau\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Aula bonilha\Pokemon\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\Pichau\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Aula bonilha\Pokemon\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\Pichau\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Aula bonilha\Pokemon\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\Pichau\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Aula bonilha\Pokemon\Pokemon\obj\Debug\Pokemon.FormPokemons.resources
+C:\Users\Pichau\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Aula bonilha\Pokemon\Pokemon\obj\Debug\Pokemon.FormPokemonsCadastro.resources
+C:\Users\Pichau\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Aula bonilha\Pokemon\Pokemon\obj\Debug\Pokemon.FormTreinadores.resources
+C:\Users\Pichau\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Aula bonilha\Pokemon\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+C:\Users\Pichau\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Aula bonilha\Pokemon\Pokemon\obj\Debug\TrabPokemon.csproj.GenerateResource.Cache
+C:\Users\Pichau\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Aula bonilha\Pokemon\Pokemon\obj\Debug\TrabPokemon.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Aula bonilha\Pokemon\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\Pichau\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Aula bonilha\Pokemon\Pokemon\obj\Debug\Pokemon.pdb
+C:\Users\Pichau\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Aula bonilha\Pokemon\Pokemon\obj\Debug\Pokemon.FormInicio.resources
+C:\Users\2018100841\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Aula bonilha\Pokemon\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\2018100841\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Aula bonilha\Pokemon\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\2018100841\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Aula bonilha\Pokemon\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\2018100841\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Aula bonilha\Pokemon\Pokemon\obj\Debug\TrabPokemon.csprojResolveAssemblyReference.cache
+C:\Users\2018100841\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Aula bonilha\Pokemon\Pokemon\obj\Debug\Pokemon.FormEditarPokes.resources
+C:\Users\2018100841\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Aula bonilha\Pokemon\Pokemon\obj\Debug\Pokemon.FormInicio.resources
+C:\Users\2018100841\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Aula bonilha\Pokemon\Pokemon\obj\Debug\Pokemon.FormPokemons.resources
+C:\Users\2018100841\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Aula bonilha\Pokemon\Pokemon\obj\Debug\Pokemon.FormPokemonsCadastro.resources
+C:\Users\2018100841\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Aula bonilha\Pokemon\Pokemon\obj\Debug\Pokemon.FormTreinadores.resources
+C:\Users\2018100841\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Aula bonilha\Pokemon\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+C:\Users\2018100841\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Aula bonilha\Pokemon\Pokemon\obj\Debug\TrabPokemon.csproj.GenerateResource.Cache
+C:\Users\2018100841\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Aula bonilha\Pokemon\Pokemon\obj\Debug\TrabPokemon.csproj.CoreCompileInputs.cache
+C:\Users\2018100841\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Aula bonilha\Pokemon\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\2018100841\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Aula bonilha\Pokemon\Pokemon\obj\Debug\Pokemon.pdb
+C:\Users\est.matheus.a\Desktop\Pokemon\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\est.matheus.a\Desktop\Pokemon\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\est.matheus.a\Desktop\Pokemon\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\est.matheus.a\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.FormEditarPokes.resources
+C:\Users\est.matheus.a\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.FormInicio.resources
+C:\Users\est.matheus.a\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.FormPokemons.resources
+C:\Users\est.matheus.a\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.FormPokemonsCadastro.resources
+C:\Users\est.matheus.a\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.FormTreinadores.resources
+C:\Users\est.matheus.a\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+C:\Users\est.matheus.a\Desktop\Pokemon\Pokemon\obj\Debug\TrabPokemon.csproj.GenerateResource.cache
+C:\Users\est.matheus.a\Desktop\Pokemon\Pokemon\obj\Debug\TrabPokemon.csproj.CoreCompileInputs.cache
+C:\Users\est.matheus.a\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\est.matheus.a\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.pdb
+C:\Users\clyss\OneDrive - Complexo de Ensino Superior do Brasil LTDA(1)\Aula bonilha\Pokemon\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\clyss\OneDrive - Complexo de Ensino Superior do Brasil LTDA(1)\Aula bonilha\Pokemon\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\clyss\OneDrive - Complexo de Ensino Superior do Brasil LTDA(1)\Aula bonilha\Pokemon\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\clyss\OneDrive - Complexo de Ensino Superior do Brasil LTDA(1)\Aula bonilha\Pokemon\Pokemon\obj\Debug\TrabPokemon.csprojAssemblyReference.cache
+C:\Users\clyss\OneDrive - Complexo de Ensino Superior do Brasil LTDA(1)\Aula bonilha\Pokemon\Pokemon\obj\Debug\Pokemon.FormEditarPokes.resources
+C:\Users\clyss\OneDrive - Complexo de Ensino Superior do Brasil LTDA(1)\Aula bonilha\Pokemon\Pokemon\obj\Debug\Pokemon.FormInicio.resources
+C:\Users\clyss\OneDrive - Complexo de Ensino Superior do Brasil LTDA(1)\Aula bonilha\Pokemon\Pokemon\obj\Debug\Pokemon.FormPokemons.resources
+C:\Users\clyss\OneDrive - Complexo de Ensino Superior do Brasil LTDA(1)\Aula bonilha\Pokemon\Pokemon\obj\Debug\Pokemon.FormPokemonsCadastro.resources
+C:\Users\clyss\OneDrive - Complexo de Ensino Superior do Brasil LTDA(1)\Aula bonilha\Pokemon\Pokemon\obj\Debug\Pokemon.FormTreinadores.resources
+C:\Users\clyss\OneDrive - Complexo de Ensino Superior do Brasil LTDA(1)\Aula bonilha\Pokemon\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+C:\Users\clyss\OneDrive - Complexo de Ensino Superior do Brasil LTDA(1)\Aula bonilha\Pokemon\Pokemon\obj\Debug\TrabPokemon.csproj.GenerateResource.cache
+C:\Users\clyss\OneDrive - Complexo de Ensino Superior do Brasil LTDA(1)\Aula bonilha\Pokemon\Pokemon\obj\Debug\TrabPokemon.csproj.CoreCompileInputs.cache
+C:\Users\clyss\OneDrive - Complexo de Ensino Superior do Brasil LTDA(1)\Aula bonilha\Pokemon\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\clyss\OneDrive - Complexo de Ensino Superior do Brasil LTDA(1)\Aula bonilha\Pokemon\Pokemon\obj\Debug\Pokemon.pdb
+C:\Users\Pichau\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Aula bonilha\Pokemon\Pokemon\obj\Debug\Pokemon.FormEditarPokes.resources
+C:\Users\est.matheus.a\Desktop\Pokemon\Pokemon\obj\Debug\TrabPokemon.csprojAssemblyReference.cache
+C:\Users\est.matheus.a\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.FormLogarTreinador.resources
+C:\Users\est.matheus.a\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.FormTreinadorPokes.resources
+C:\Users\est.matheus.a\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.FormRelacionaPokeTrei.resources
+C:\Users\clyss\OneDrive - Complexo de Ensino Superior do Brasil LTDA(1)\Aula bonilha\Pokemon\Pokemon\obj\Debug\Pokemon.FormLogarTreinador.resources
+C:\Users\clyss\OneDrive - Complexo de Ensino Superior do Brasil LTDA(1)\Aula bonilha\Pokemon\Pokemon\obj\Debug\Pokemon.FormRelacionaPokeTrei.resources
+C:\Users\clyss\OneDrive - Complexo de Ensino Superior do Brasil LTDA(1)\Aula bonilha\Pokemon\Pokemon\obj\Debug\Pokemon.FormTreinadorPokes.resources
+C:\Users\clyss\OneDrive - Complexo de Ensino Superior do Brasil LTDA(1)\Aula bonilha\Pokemon\Pokemon\obj\Debug\Pokemon.FormTreinadorCadastro.resources
+C:\Users\Pichau\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Aula bonilha\Pokemon\Pokemon\obj\Debug\Pokemon.FormLogarTreinador.resources
+C:\Users\Pichau\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Aula bonilha\Pokemon\Pokemon\obj\Debug\Pokemon.FormRelacionaPokeTrei.resources
+C:\Users\Pichau\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Aula bonilha\Pokemon\Pokemon\obj\Debug\Pokemon.FormTreinadorCadastro.resources
+C:\Users\Pichau\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Aula bonilha\Pokemon\Pokemon\obj\Debug\Pokemon.FormTreinadorPokes.resources
+C:\Users\Pichau\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Aula bonilha\Pokemon\Pokemon\obj\Debug\Pokemon.FormVisualizar.resources
+C:\Users\Pichau\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Aula bonilha\Pokemon\Pokemon\obj\Debug\TrabPokemon.csprojResolveAssemblyReference.cache
+C:\Users\clyss\OneDrive - Complexo de Ensino Superior do Brasil LTDA(1)\Aula bonilha\Pokemon\Pokemon\obj\Debug\Pokemon.FormVisualizar.resources

@@ -1,0 +1,13 @@
+C:\Users\est.matheus.a\Desktop\Pokemon\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\est.matheus.a\Desktop\Pokemon\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\est.matheus.a\Desktop\Pokemon\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\est.matheus.a\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.csprojAssemblyReference.cache
+C:\Users\est.matheus.a\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.Form1.resources
+C:\Users\est.matheus.a\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.FormPokemons.resources
+C:\Users\est.matheus.a\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+C:\Users\est.matheus.a\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+C:\Users\est.matheus.a\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\est.matheus.a\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\est.matheus.a\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.pdb
+C:\Users\est.matheus.a\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.FormTreinadores.resources
+C:\Users\est.matheus.a\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.FormPokemonsCadastro.resources

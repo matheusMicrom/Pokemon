@@ -1,0 +1,19 @@
+﻿teste;..\..\..\imagens\treinadores\0.jpg;System.Windows.Forms.GroupBox, Text: Selecione o genero;System.Windows.Forms.PictureBox, SizeMode: StretchImage
+teste;..\..\..\imagens\treinadores\0.jpg;System.Windows.Forms.GroupBox, Text: Selecione o genero;System.Windows.Forms.PictureBox, SizeMode: StretchImage
+teste;..\..\..\imagens\treinadores\0.jpg;System.Windows.Forms.GroupBox, Text: Selecione o genero;System.Windows.Forms.PictureBox, SizeMode: StretchImage
+teste;..\..\..\imagens\treinadores\0.jpg;System.Windows.Forms.GroupBox, Text: Selecione o genero;System.Windows.Forms.PictureBox, SizeMode: StretchImage
+d;..\..\..\imagens\treinadores\0.jpg;System.Windows.Forms.GroupBox, Text: Selecione o genero;System.Windows.Forms.PictureBox, SizeMode: StretchImage
+d;..\..\..\imagens\treinadores\0.jpg;System.Windows.Forms.GroupBox, Text: Selecione o genero;System.Windows.Forms.PictureBox, SizeMode: StretchImage
+d;..\..\..\imagens\treinadores\0.jpg;System.Windows.Forms.GroupBox, Text: Selecione o genero;System.Windows.Forms.PictureBox, SizeMode: StretchImage
+d;..\..\..\imagens\treinadores\0.jpg;System.Windows.Forms.GroupBox, Text: Selecione o genero;System.Windows.Forms.PictureBox, SizeMode: StretchImage
+d;..\..\..\imagens\treinadores\0.jpg;System.Windows.Forms.GroupBox, Text: Selecione o genero;System.Windows.Forms.PictureBox, SizeMode: StretchImage
+cly;..\..\..\imagens\treinadores\0.jpg;System.Windows.Forms.GroupBox, Text: Selecione o genero;
+hbjb;..\..\..\imagens\treinadores\0.jpg;System.Windows.Forms.GroupBox, Text: Selecione o genero;
+qqq;..\..\..\imagens\treinadores\0.jpg;System.Windows.Forms.GroupBox, Text: Selecione o genero;
+qqq;..\..\..\imagens\treinadores\0.jpg;System.Windows.Forms.GroupBox, Text: Selecione o genero;
+qqq;..\..\..\imagens\treinadores\0.jpg;System.Windows.Forms.GroupBox, Text: Selecione o genero;
+qqq;..\..\..\imagens\treinadores\0.jpg;System.Windows.Forms.GroupBox, Text: Selecione o genero;
+qqq;..\..\..\imagens\treinadores\0.jpg;System.Windows.Forms.GroupBox, Text: Selecione o genero;
+qqq;..\..\..\imagens\treinadores\0.jpg;System.Windows.Forms.GroupBox, Text: Selecione o genero;
+qqq;..\..\..\imagens\treinadores\0.jpg;System.Windows.Forms.GroupBox, Text: Selecione o genero;
+qqq;..\..\..\imagens\treinadores\0.jpg;System.Windows.Forms.GroupBox, Text: Selecione o genero;
